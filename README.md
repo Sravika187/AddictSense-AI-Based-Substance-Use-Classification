@@ -1,4 +1,4 @@
-# AddictSense
+# AddictSense-AI-Based-Substance-Use-Classification
 
 AddictSense is a machine learning project that analyzes user-provided sentences and classifies them based on substance use. It identifies different substance-related categories and can also detect cases where no substance use is mentioned.
 
@@ -85,10 +85,10 @@ AddictSense/
 ### Installation
 STEPS:
 Clone the repository:
-git clone https://github.com/Sravika187/AddictSense.git
+git clone https://github.com/Sravika187/AddictSense-AI-Based-Substance-Use-Classification.git
 
 Go to the project folder:
-cd AddictSense
+cd AddictSense-AI-Based-Substance-Use-Classification
 
 Install the required Python libraries:
 pip install numpy pandas scikit-learn nltk matplotlib seaborn jupyter
